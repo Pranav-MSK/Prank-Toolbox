@@ -87,4 +87,4 @@ This project is licensed under the MIT License — see the LICENSE file for deta
 
 ## 📝 Author
 Pranav M S Krishnan
-GitHub: @<Pranav-MSK>
+GitHub: @<https://www.github.com/Pranav-MSK>
