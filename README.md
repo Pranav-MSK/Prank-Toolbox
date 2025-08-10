@@ -6,6 +6,11 @@
 
 ---
 
+## Demo 
+![Prank Toolbox Demo](gifDancingIcons.mp4)
+
+---
+
 ## ✨ Features
 
 - 🖥 **Self Destruct Deluxe** – Fake self-destruct countdown with warning sounds, pop-ups, flashing screen, and “System Recovery Failed” finale.
@@ -73,7 +78,7 @@ Secret Chaos Mode: Click the ❌ exit button once to trigger 30 seconds of prank
 - Inno Setup — Windows installer creation
 
 ## 📸 Screenshots
-(Add screenshots here after running the pranks)
+![Dashboard](dashboardSS.png) ![Useless Button](uselessbuttonSS.png)
 
 ## 🧩 Customization
 Replace sounds in assets/ to give your pranks a unique vibe.
