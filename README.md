@@ -7,7 +7,13 @@
 ---
 
 ## Demo 
-![Prank Toolbox Demo](gifDancingIcons.mp4)
+![Prank Toolbox Demo](gifDancingIcons.gif)
+
+---
+
+## 🚀 Download
+
+[![Download Prank Toolbox](https://img.shields.io/badge/Download-PrankToolbox.exe-red?style=for-the-badge&logo=windows)](https://github.com/Pranav-MSK/Prank-Toolbox/releases/latest/download/PrankToolbox_Installer.exe)
 
 ---
 
@@ -68,6 +74,8 @@ Escape: Press Esc in most pranks to exit fullscreen mode.
 
 Secret Chaos Mode: Click the ❌ exit button once to trigger 30 seconds of prank mayhem before you can close the app.
 
+---
+
 ## 🛠 Built With
 - Python
 
@@ -77,8 +85,12 @@ Secret Chaos Mode: Click the ❌ exit button once to trigger 30 seconds of prank
 
 - Inno Setup — Windows installer creation
 
+---
+
 ## 📸 Screenshots
 ![Dashboard](dashboardSS.png) ![Useless Button](uselessbuttonSS.png)
+
+---
 
 ## 🧩 Customization
 Replace sounds in assets/ to give your pranks a unique vibe.
@@ -87,8 +99,30 @@ Modify funny_messages and error_messages lists in self_destruct_deluxe.py for pe
 
 Add your own .py prank scripts and register them in dashboard.py.
 
-## ⚖️ License
-This project is licensed under the MIT License — see the LICENSE file for details.
+---
+
+## 📄 License
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
+
+This project is licensed under the terms of the **MIT License**.  
+See the [LICENSE](LICENSE) file for details.
+
+---
+
+## 🤝 Contributing
+
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](CONTRIBUTING.md)
+
+Contributions, ideas, and new prank scripts are welcome!  
+
+1. Fork this repo  
+2. Create your feature branch (`git checkout -b feature/AmazingPrank`)  
+3. Commit your changes (`git commit -m 'Add AmazingPrank'`)  
+4. Push to the branch (`git push origin feature/AmazingPrank`)  
+5. Open a Pull Request 🚀
+
+---
 
 ## 📝 Author
 Pranav M S Krishnan
